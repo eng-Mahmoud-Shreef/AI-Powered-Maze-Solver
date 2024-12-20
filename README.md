@@ -2,6 +2,8 @@
 # AI-Powered Maze Solver
 
 **AI-Powered Maze Solver** is a lightweight and intuitive tool for designing and solving grid-based mazes. The project uses specific markers to define the starting point, goal, walls, and empty spaces, enabling users to simulate or visualize pathfinding and navigation tasks.
+![image](https://github.com/user-attachments/assets/c7674247-833c-47bd-bef6-c9409aa502a6)
+
 
 ## Features
 - **Simple Markup**: Use predefined symbols (`S`, `G`, `E`, `X`) to create and describe a maze.
