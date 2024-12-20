@@ -62,4 +62,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
 
 ## Contact
-For questions or feedback, please open an issue or contact me at .
+For questions or collaboration inquiries, feel free to reach out:
+- **LinkedIn**: https://www.linkedin.com/in/mahmoud-shreef/
+- **Email**: eng.mahmoudshreef@outlook.com
+- **Phone**: +201007656245
